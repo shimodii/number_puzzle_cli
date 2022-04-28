@@ -13,3 +13,5 @@ if you want to compile it on your machine you should just:
 	2: g++ main.cpp -o puzzle_cli
 	3-0: OPTIONAL!! - copy the compiled file to your path
 	3-1: sudo cp puzzle_cli /usr/local/bin/  
+
+run it by ./puzzle_cli and play it with <tt><b>w,a,s,d</b></tt>.
